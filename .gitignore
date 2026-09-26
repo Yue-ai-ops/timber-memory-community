@@ -1,0 +1,10 @@
+node_modules/
+dist/
+local-data/
+private-data/
+.env*
+web/config.local.json
+*.blend
+*.mov
+*.heic
+*.HEIC
